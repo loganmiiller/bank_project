@@ -8,7 +8,7 @@ import sqlite3
 url = "https://web.archive.org/web/20230908091635/https://en.wikipedia.org/wiki/List_of_largest_banks"
 csv_path = "https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkillsNetwork-PY0221EN-Coursera/labs/v2/exchange_rate.csv"
 table_attribs = ['Name', 'MC_USD_Billions']
-csv_p = "./Largest_banks_data.csv"
+csv_p = "./Largest_banks_data.csv" 
 db_name = "Banks.db"
 table_name = "Largest_banks"
 log_file = "code_log.txt"

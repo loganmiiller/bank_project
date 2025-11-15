@@ -36,8 +36,8 @@ The pipeline includes progress logging into `bank_project.txt`, providing timest
 ## How to Run
 1. Clone this repository:  
    ```bash
-   git clone <your-repo-url>
-   cd <your-repo-name>
+   git clone https://github.com/loganmiiller/bank_project
+   cd bank_project
    ```
 
 2. Install dependencies:  

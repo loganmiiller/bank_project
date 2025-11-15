@@ -5,3 +5,17 @@
 2025-Sep-03-12:02:37,SQL Connection initiated
 2025-Sep-03-12:02:37,Data loaded to Database as table. Running the query
 2025-Sep-03-12:02:37,Process Complete.
+2025-Sep-08-12:19:54,Preliminaries complete. Initiating ETL process
+2025-Sep-08-12:20:03,Data extraction complete. Initiating Transformation process
+2025-Sep-08-12:20:04,Data tranformation complete. Initiating Transformation process
+2025-Sep-08-12:20:04,Data saved to CSV file
+2025-Sep-08-12:20:04,SQL Connection initiated
+2025-Sep-08-12:20:04,Data loaded to Database as table. Running the query
+2025-Sep-08-12:20:04,Process Complete.
+2025-Sep-08-12:20:54,Preliminaries complete. Initiating ETL process
+2025-Sep-08-12:20:55,Data extraction complete. Initiating Transformation process
+2025-Sep-08-12:20:55,Data tranformation complete. Initiating Transformation process
+2025-Sep-08-12:20:55,Data saved to CSV file
+2025-Sep-08-12:20:55,SQL Connection initiated
+2025-Sep-08-12:20:56,Data loaded to Database as table. Running the query
+2025-Sep-08-12:20:56,Process Complete.
